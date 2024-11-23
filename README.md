@@ -1,4 +1,4 @@
-#                         Anjali Hansda | Data Analyst
+# **Anjali Hansda | Data Analyst**
 
 
 Welcome to my GitHub profile!  
